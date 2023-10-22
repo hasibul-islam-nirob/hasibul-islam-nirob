@@ -1,6 +1,5 @@
 ## Hi there 👋, Hasibul Islam Nirob
 #### A passionate software developer from Bangladesh
-![A passionate software developer from Bangladesh](https://media.licdn.com/dms/image/D5603AQGf1aFJXqeRXQ/profile-displayphoto-shrink_800_800/0/1672083388980?e=1703721600&v=beta&t=UiMj9nU5bdcufjsX3X6tg5uHwVCTKOKsHQQXs189RB0)
 
 **Skills:**
 **Programming Language:** C/C++, JAVA, PHP, OOP Concept
