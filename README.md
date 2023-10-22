@@ -1,14 +1,14 @@
 ## Hi there 👋, Hasibul Islam Nirob
 #### A passionate software developer from Bangladesh
 
-**Skills:**
-**Programming Language:** C/C++, JAVA, PHP, OOP Concept
-**Frontend:** HTML5/CSS3, Bootstrap4/5, JavaScript, jQuery, React JS, VUE JS.
-**Backend:** PHP, Laravel.
-**Rest API:** Lumen API.
-**Database:** MySQL.
-**Project Development Tool:** Docker
-**Sounds Knowledge:** Node JS, Express JS, MongoDB, Firebase, Socket programming, WebRTC, Python, Tensor Flow, etc.
+-**Skills:**
+-**Programming Language:** C/C++, JAVA, PHP, OOP Concept
+-**Frontend:** HTML5/CSS3, Bootstrap4/5, JavaScript, jQuery, React JS, VUE JS.
+-**Backend:** PHP, Laravel.
+-**Rest API:** Lumen API.
+-**Database:** MySQL.
+-**Project Development Tool:** Docker
+-**Sounds Knowledge:** Node JS, Express JS, MongoDB, Firebase, Socket programming, WebRTC, Python, Tensor Flow, etc.
 >--------------------------------
 
 - 🔭 I’m currently working on  Advance ERP (Enterprise Resource Planning) Management System. 
