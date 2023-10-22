@@ -9,7 +9,7 @@
 **Database:** MySQL, MongoDB.<br>
 **Project Development Tool:** Docker.<br>
 **Sounds Knowledge:** Node JS, Express JS, MongoDB, Firebase, Socket programming, WebRTC, Python, Tensor Flow, etc.
->--------------------------------
+<hr>
 
 - 🔭 I’m currently working on  Advance ERP (Enterprise Resource Planning) Management System. 
 - 🌱 I’m currently learning Artificial Intelligence, Machine Learning, Deep Learning Also 
